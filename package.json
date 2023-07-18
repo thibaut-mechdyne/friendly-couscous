@@ -1,0 +1,17 @@
+{
+  "displayName": "Friendly Couscous",
+  "name": "com.mechdyne.friendly-couscous",
+  "author": {
+    "url": "https://www.mechdyne.com",
+    "name": "Mechdyne Corporation",
+    "email": "support@mechdyne.com"
+  },
+  "documentationUrl": "https://www.mechdyne.com",
+  "changelogUrl": "https://www.mechdyne.com",
+  "licensesUrl": "https://www.mechdyne.com",
+  "unity": "2019.4",
+  "version": "4.2.0",
+  "unityRelease": "40f1",
+  "keywords": [],
+  "description": "friendly-couscous"
+}
